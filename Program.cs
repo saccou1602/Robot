@@ -6,7 +6,7 @@ TODO:
 1. Fix bug, when the player completes requirements for levels > 0 
 and only then completes level 0, 
 the program doesn't congrat player with all the other levels, 
-that he/she completed(though it congrats after next turns)
+that he/she completed(though it congrats in next turns)
 
 2. "Change Clicker" to "Math quiz" or smth like that
 */
